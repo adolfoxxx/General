@@ -6,7 +6,18 @@ namespace myApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello General World!");
+            Console.WriteLine("Hello My World!");
+
+            Console.WriteLine(TestMethod(3));
+
+
+        }
+
+        static int TestMethod(int input)
+        {
+            int response = -1;
+            response = input;
+            return response;
         }
     }
 }
