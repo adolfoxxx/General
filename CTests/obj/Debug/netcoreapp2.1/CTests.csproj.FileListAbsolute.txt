@@ -1,0 +1,11 @@
+/Users/adolfom/Documents/Adi/Source/General/CTests/bin/Debug/netcoreapp2.1/CTests.deps.json
+/Users/adolfom/Documents/Adi/Source/General/CTests/bin/Debug/netcoreapp2.1/CTests.runtimeconfig.json
+/Users/adolfom/Documents/Adi/Source/General/CTests/bin/Debug/netcoreapp2.1/CTests.runtimeconfig.dev.json
+/Users/adolfom/Documents/Adi/Source/General/CTests/bin/Debug/netcoreapp2.1/CTests.dll
+/Users/adolfom/Documents/Adi/Source/General/CTests/bin/Debug/netcoreapp2.1/CTests.pdb
+/Users/adolfom/Documents/Adi/Source/General/CTests/obj/Debug/netcoreapp2.1/CTests.csprojAssemblyReference.cache
+/Users/adolfom/Documents/Adi/Source/General/CTests/obj/Debug/netcoreapp2.1/CTests.csproj.CoreCompileInputs.cache
+/Users/adolfom/Documents/Adi/Source/General/CTests/obj/Debug/netcoreapp2.1/CTests.AssemblyInfoInputs.cache
+/Users/adolfom/Documents/Adi/Source/General/CTests/obj/Debug/netcoreapp2.1/CTests.AssemblyInfo.cs
+/Users/adolfom/Documents/Adi/Source/General/CTests/obj/Debug/netcoreapp2.1/CTests.dll
+/Users/adolfom/Documents/Adi/Source/General/CTests/obj/Debug/netcoreapp2.1/CTests.pdb
