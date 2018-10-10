@@ -7,10 +7,7 @@ namespace myApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello My World!");
-
             Console.WriteLine(TestMethod(3));
-
-
         }
 
         static int TestMethod(int input)
