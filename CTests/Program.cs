@@ -6,7 +6,7 @@ namespace myApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello My World!");
+            Console.WriteLine("This is C# and how great it is!");
             Console.WriteLine(TestMethod(3));
         }
 
